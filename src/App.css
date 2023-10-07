@@ -379,7 +379,7 @@ button:hover {
 @media (max-width: 850px) {
   body {
     background: #fff;
-    overflow: auto;
+    overflow: hidden;
   }
 
   h1 {
@@ -401,7 +401,7 @@ button:hover {
   }
 
   .main-content {
-    overflow: auto;
+    overflow: hidden;
     height: auto;
     padding-right: 25px;
   }
