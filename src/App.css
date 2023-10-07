@@ -379,7 +379,7 @@ button:hover {
 @media (max-width: 850px) {
   body {
     background: #fff;
-    overflow: hidden;
+    overflow: auto;
   }
 
   h1 {
